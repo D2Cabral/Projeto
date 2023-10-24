@@ -1,4 +1,4 @@
-let heroi = ["Março pilame", 4000];
+let heroi = ["Marsupilami", 4000];
 
 if (heroi[1] < 1000) {
     console.log("O Herói de nome " + heroi[0]+ " está no nível de"  + " Ferro")
